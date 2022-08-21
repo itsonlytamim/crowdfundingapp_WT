@@ -1,0 +1,8 @@
+samiul tamim|tamim911|shamiul.tamim@gmail.com|1212|Male|2000-04-24|Admin
+Ratul|ratul333|ratul@gmail.com|1234|Male|2000-07-14|User
+kanta|kanta04|kanta34@gmail.com|333|Female|2000-02-21|Admin
+jubayer ahmed|jhb23|juber@gmail.com|999|Male|1996-06-06|Admin
+ratul zawad|rtul123|ratulzawadibrahim@gmail.com|2424|Male|2007-05-08|Admin
+cj|cj043|RafinSy|123123|Male|2022-06-08|Admin
+mt|tmim|your.tamim@gmail.com|555555|Male|2022-08-03|Admin
+samiul tamim|kibria|shamiul.tamim@gmail.com|123123123|Male|2022-08-03|User
